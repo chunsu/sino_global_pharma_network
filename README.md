@@ -3,7 +3,7 @@
 ### Meetings
 [Our 1st networking event 4th Aug](meeting1.md)
 
-### FAQ
+### Link
 
 
 [Prevalence of rare diseases by decreasing prevalence or cases](Prevalence_of_rare_diseases_by_decreasing_prevalence_or_cases.pdf)  
