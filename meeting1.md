@@ -1,9 +1,9 @@
 # Meeting one
 <img src="CircledRedManStandsAmongGrayMen_FDAOrphanDiseases.jpg
 " alt="hi" class="inline"/>
-This is the first meeting  
+Rare Diseases
+   
 Proposed Agenda  
-
 Date: 4th August  
 Place: TBC  
 Time: 1400-1700  
@@ -19,6 +19,4 @@ Time: 1400-1700
 1515-1545 Networking Session 1  
 1545-1615 Networking Session 2  
 1615-1655 Free Networking Session  
-1655-1700 Closing  
-
-fdsfs
+1655-1700 Closing
