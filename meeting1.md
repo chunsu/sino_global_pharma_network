@@ -1,8 +1,8 @@
 # Meeting one
 <img src="CircledRedManStandsAmongGrayMen_FDAOrphanDiseases.jpg
-" alt="hi" class="inline"/>
+" alt="hi" class="inline"/>  
 Rare Diseases
-   
+
 Proposed Agenda  
 Date: 4th August  
 Place: TBC  
