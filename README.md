@@ -1,7 +1,7 @@
 # 全球高层次人才-医疗药品行业 Sino Global Pharma Networking 
 
 ### Meetings
-[Our 1st networking event 4th Aug](meeting1.md)
+[Our 1st networking event Aug 4th 2018](meeting1.md)
 
 ### Link
 
