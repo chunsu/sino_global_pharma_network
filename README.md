@@ -1,7 +1,7 @@
 # 全球高层次人才-医疗药品行业 Sino Global Pharma Networking 
 
 ### Meetings
-[Meeting One](meeting1.md)
+[Our 1st networking event](meeting1.md)
 
 ### FAQ
 
