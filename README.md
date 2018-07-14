@@ -6,8 +6,8 @@
 ### FAQ
 
 
-[LINK](Prevalence_of_rare_diseases_by_decreasing_prevalence_or_cases.pdf)  
+[Prevalence of rare diseases by decreasing prevalence or cases](Prevalence_of_rare_diseases_by_decreasing_prevalence_or_cases.pdf)  
 [Prevalence of rare diseases by alphabetical list](Prevalence_of_rare_diseases_by_alphabetical_list.pdf)  
-[LINK](List_of_rare_diseases_in_alphabetical_order.pdf)  
-[LINK](list_of_orphan_drugs_in_europe.pdf)  
+[List of rare diseases in alphabetical order](List_of_rare_diseases_in_alphabetical_order.pdf)  
+[list of orphan drugs in europe](list_of_orphan_drugs_in_europe.pdf)  
 
